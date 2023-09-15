@@ -63,3 +63,16 @@ ggplot(
   ) +
   scale_color_colorblind()
 ```
+
+```{r}
+ggplot(
+  penguins,
+  aes(x = species)
+) +
+  geom_bar() +
+  theme_minimal() +
+  labs(
+    x = "Species",
+    y = "Count"
+  )
+```
