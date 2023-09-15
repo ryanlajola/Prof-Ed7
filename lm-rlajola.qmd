@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-![](lm-rlajola_files/lmpics/penguins_quarto_teach.png)
+![](lm-rlajola_files/impic1.jpg)
 
 ### The Tidyverse
 
